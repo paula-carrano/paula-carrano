@@ -17,8 +17,11 @@
 * Axios
 * Bootstrap
 * Material-UI
+* SQL
+* NodeJS
+* PoweBI
 
-:evergreen_tree: In my free time, I enjoy read a book, watch series with my husband or take a course online. In addition, I like walking in the park during sunny days!
+:evergreen_tree: In my free time, I enjoy read books, watch series with my husband or take a course online. In addition, I like walking in the park during sunny days!
 
 <div style="margin-left: 20%">
 <a href="https://github.com/paula-carrano/github-readme-stats">
