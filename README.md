@@ -19,7 +19,7 @@
 * Material-UI
 * SQL
 * NodeJS
-* PoweBI
+* PowerBI
 
 :evergreen_tree: In my free time, I enjoy read books, watch series with my husband or take a course online. In addition, I like walking in the park during sunny days!
 
