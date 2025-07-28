@@ -1,37 +1,25 @@
+# 👋 Hi, I'm Pau
 
-  
-# :wave: Hi , I'm Pau
+I’m currently studying to become a ** Developer** and I’m passionate about creating modern and user-friendly web applications.
 
-### I'm currently learning to be a Frontend developer
+## 🛠️ Tech Stack & Tools
+- **Languages:** HTML, CSS, JavaScript, TypeScript, SQL
+- **Frontend:** React (Hooks, React Router, React Hook Form), Bootstrap, Material-UI
+- **Backend & Tools:** Node.js, Axios, Firebase
+- **Other:** Power BI, Git/GitHub
 
-:books: I've had trying to learn some languages, frameworks and technologies like:
+## 📚 Learning Journey
+I’m continuously learning and improving my skills in frontend development and modern web technologies.  
+My goal is to contribute to projects where I can grow as a developer while delivering value to users.
 
-* HTML
-* CSS
-* Javascript
-* React JS
-* Typescript
-* React Hooks
-* React Hook Forms
-* React-router-DOM
-* Axios
-* Bootstrap
-* Material-UI
-* SQL
-* NodeJS
-* PowerBI
+## 🌱 A bit more about me
+When I'm not coding, I enjoy:
+- Reading books  
+- Watching series with my husband  
+- Taking online courses  
+- Going for walks on sunny days
 
-:evergreen_tree: In my free time, I enjoy read books, watch series with my husband or take a course online. In addition, I like walking in the park during sunny days!
+---
 
-<div style="margin-left: 20%">
-<a href="https://github.com/paula-carrano/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paula-carrano&show_icons=true&theme=radical&hide=stars" />
-</a>
-<a href="https://github.com/paula-carrano/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paula-carrano&layout=compact&theme=radical" />
-</a>
-  </div>
-
-### :telephone_receiver: Get in touch
-
-<a target=blank rel=noopener noreferrer href="https://www.linkedin.com/in/paulacarrano/" > Linkedin  </a>
+📫 **Reach me at:**  
+[LinkedIn](https://www.linkedin.com/in/paula-agustina-carrano/) | [GitHub](https://github.com/paula-carrano)
